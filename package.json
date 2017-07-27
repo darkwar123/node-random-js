@@ -1,0 +1,27 @@
+{
+  "name": "node-random-js",
+  "version": "1.0.0",
+  "description": "Extension of random-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkwar123/node-random-js.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Gadzhiev Said",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkwar123/node-random-js/issues"
+  },
+  "homepage": "https://github.com/darkwar123/node-random-js#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "decimal.js": "^7.2.3",
+    "random-js": "^1.0.8"
+  }
+}
